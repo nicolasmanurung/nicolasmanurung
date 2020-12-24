@@ -11,7 +11,7 @@ Hello! I am Nicolas Manurung. I am Information Technology Students on Del Instit
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android apps
 * 🎓 I'm a Information Technology student (graduating in October 2021)
-* 🌐 You can see some of my projects on [my portfolio](http://www.nicolasmanurung.tech/projects-grid-cards.html)
+* 🌐 You can see some of my projects on [my portfolio](https://nicolasmanurung.tech/projects-grid-cards.html)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -52,7 +52,7 @@ Hello! I am Nicolas Manurung. I am Information Technology Students on Del Instit
   <a href="https://www.linkedin.com/in/nicolasmanurung/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/NicolasManroeng"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/blackstar2905/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="http://www.nicolasmanurung.tech/"><img alt="My Website" title="My Website" src="https://img.shields.io/badge/-My Website-FF5700?style=for-the-badge&logo=vauxhall&logoColor=white"/></a>
+  <a href="https://nicolasmanurung.tech/"><img alt="My Website" title="My Website" src="https://img.shields.io/badge/-My Website-FF5700?style=for-the-badge&logo=vauxhall&logoColor=white"/></a>
 </p>
 
 <!--
