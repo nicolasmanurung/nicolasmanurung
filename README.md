@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello! I am Nicolas Manurung. I am Information Technology Students on Del Institute of Technology. I have passion for android development using Kotlin Language. I have good experience for leadership, time management, project management, teamwork.
+Hello! I am Nicolas Manurung. I am graduated from Information Technology on Del Institute of Technology. I have passion for android development using Kotlin Language. I have good experience for leadership, time management, project management, teamwork.
 
 #### 🔭 I’m currently looking for new opportunities as Android Developer, Associate Project Manager, Product Owner.
 
@@ -7,12 +7,13 @@ Hello! I am Nicolas Manurung. I am Information Technology Students on Del Instit
 
 ## 📖 About me
 
-* 💻 I'm a android developer, and product management
+* 💻 I'm a Android developer
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android apps
-* 🎓 I'm a Information Technology student (graduating in October 2021)
+* 🌐 I love Product Management
+<!-- * 🎓 I'm a Information Technology student (graduating in October 2021)
 * 🌐 You can see some of my projects on [my portfolio](https://nicolasmanurung.tech/projects-grid-cards.html)
-
+ -->
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
