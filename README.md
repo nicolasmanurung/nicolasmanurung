@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello! I am Nicolas Manurung. I am graduated from Information Technology on Del Institute of Technology. I have passion for android development using Kotlin Language. I have good experience for leadership, time management, project management, teamwork.
 
-#### 🔭 I’m currently looking for new opportunities as Android Developer, Associate Project Manager, Product Owner.
+<!-- #### 🔭 I’m currently looking for new opportunities as Android Developer, Associate Project Manager, Product Owner. -->
 
 ![My Visitors](https://visitor-badge.glitch.me/badge?page_id=nick2905/nick2905)
 
