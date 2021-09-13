@@ -7,7 +7,7 @@ Hello! I am Nicolas Manurung. I am graduated from Information Technology on Del 
 
 ## 📖 About me
 
-* 💻 I'm a Android developer
+* 💻 I'm a Android Engineer
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android apps
 * 🌐 I love Product Management
@@ -38,9 +38,9 @@ Hello! I am Nicolas Manurung. I am graduated from Information Technology on Del 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/nick2905">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nick2905&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nick2905&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/nicolasmanurung">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolasmanurung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicolasmanurung&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -51,7 +51,7 @@ Hello! I am Nicolas Manurung. I am graduated from Information Technology on Del 
 <p align="left">
 <!--   <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
   <a href="https://www.linkedin.com/in/nicolasmanurung/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/NicolasManroeng"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/nickmanurung"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/blackstar2905/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
   <a href="https://nicolasmanurung.tech/"><img alt="My Website" title="My Website" src="https://img.shields.io/badge/-My Website-FF5700?style=for-the-badge&logo=vauxhall&logoColor=white"/></a>
 </p>
