@@ -3,7 +3,7 @@ Hello! I am Nicolas Manurung. I have passion for android development using Kotli
 
 <!-- #### 🔭 I’m currently looking for new opportunities as Android Developer, Associate Project Manager, Product Owner. -->
 
-![My Visitors](https://visitor-badge.glitch.me/badge?page_id=nick2905/nick2905)
+![My Visitors](https://visitor-badge.glitch.me/badge?page_id=nicolasmanurung/nicolasmanurung)
 
 ## 📖 About me
 
@@ -57,7 +57,7 @@ Hello! I am Nicolas Manurung. I have passion for android development using Kotli
 </p>
 
 <!--
-**nick2905/nick2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nicolasmanurung/nicolasmanurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
