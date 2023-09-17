@@ -3,7 +3,7 @@ Hello! I am Nicolas Manurung. I have passion for android development using Kotli
 
 <!-- #### 🔭 I’m currently looking for new opportunities as Android Developer, Associate Project Manager, Product Owner. -->
 
-![My Visitors](https://visitor-badge.glitch.me/badge?page_id=nicolasmanurung/nicolasmanurung)
+![My Visitors](https://komarev.com/ghpvc/?username=nicolasmanurung)
 
 ## 📖 About me
 
